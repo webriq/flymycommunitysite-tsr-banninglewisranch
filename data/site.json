@@ -3,7 +3,7 @@
     {
       "sitename": "Fly My Community",
       "icon": "/img/favicon.png",
-      "logo": "/img/logo.png",
+      "logo": "https://res.cloudinary.com/fmcapp/image/upload/v1551203352/aqcvxhwrm3emb9b2jgok.png",
       "metadesc": "Trusted By Fine Real Estate Professionals",
       "metauthor": "Fly My Community",
       "metakeyword": "cms"
@@ -11,18 +11,18 @@
   ],
   "content": [
     {
-      "email": "flymycommunity@gmail.com",
-      "linkcont": "+0909 2131 1231",
-      "videoid": "255662356",
+      "email": "Tina.Swonger@Remax.net",
+      "linkcont": "(719) 229-2153",
+      "videoid": "233413663",
       "sliderbg": "/img/fly3_bg.jpg"
     }
   ],
   "about": [
-  {
-    "abouttext1": "Crystal Park - FMC ",
-    "abouttext2": "Crystal Park is a private gated mountain community within the Pikes Peak region. Located above Colorado Springs and adjacent to Manitou Springs.....",
-    "aboutbg": "/img/content_bg.png"
-  }
+    {
+      "abouttext1": "Banning Lewis Ranch",
+      "abouttext2": "Banning Lewis Ranch is now an Oakwood Homes community, expanding and adding to the neighborhood, while continually making it the best place to live in Colorado Springs. You can’t find homes for sale in Colorado Springs complete with neighborhood amenities and such already in place at Banning Lewis Ranch. There is no waiting for items to be put into your community; everything is in place. Located in the northeastern area of Colorado Springs, the community is off Woodmen Rd along Marksheffel Rd. With homes for sale from the $200s in Banning Lewis Ranch, Oakwood Homes offers quality, luxury homes at affordable costs in Colorado Springs.",
+      "aboutbg": "/img/content_bg.png"
+    }
   ],
   "updatedDate": "2017-11-28T06:24:37.530Z"
 }
